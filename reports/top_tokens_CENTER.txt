@@ -1,0 +1,48 @@
+Top Tokens for CENTER Bias Classification
+==================================================
+
+TOP POSITIVE INDICATORS (most predictive of this class):
+--------------------------------------------------
+ 1. word:u s                       (+2.3506)
+ 2. word:u                         (+2.2577)
+ 3. word:matters                   (+2.2332)
+ 4. word:mr                        (+1.7632)
+ 5. word:s president               (+1.5625)
+ 6. word:driving news              (+1.3329)
+ 7. word:driving                   (+1.2796)
+ 8. word:big picture               (+1.1471)
+ 9. word:reuters                   (+1.1272)
+10. char: u s                      (+1.0209)
+11. char: u s                      (+1.0179)
+12. word:president donald          (+0.9977)
+13. char: u                        (+0.9851)
+14. char:u s                       (+0.9647)
+15. word:picture                   (+0.9639)
+16. char:u s                       (+0.9443)
+17. char:hy it                     (+0.9379)
+18. char:t mat                     (+0.9129)
+19. word:perspectives              (+0.8857)
+20. char: us p                     (+0.8629)
+
+TOP NEGATIVE INDICATORS (most predictive against this class):
+--------------------------------------------------
+ 1. word:just                      (-1.1063)
+ 2. word:percent                   (-1.0174)
+ 3. word:president obama           (-0.9984)
+ 4. word:obama                     (-0.9938)
+ 5. word:united states             (-0.9398)
+ 6. word:united                    (-0.9254)
+ 7. word:morning                   (-0.8105)
+ 8. word:fox                       (-0.7832)
+ 9. word:announced                 (-0.7525)
+10. word:wants                     (-0.7247)
+11. word:isis                      (-0.7033)
+12. word:massive                   (-0.6461)
+13. word:message                   (-0.6396)
+14. word:j trump                   (-0.6169)
+15. word:donald j                  (-0.6169)
+16. word:fox news                  (-0.6131)
+17. word:anti                      (-0.6123)
+18. word:line                      (-0.6108)
+19. char:y t                       (-0.5795)
+20. word:women                     (-0.5512)

@@ -1,0 +1,33 @@
+{
+  "model_name": "distilroberta-base",
+  "hyperparameters": {
+    "epochs": 4,
+    "batch_size": 8,
+    "effective_batch_size": 16,
+    "learning_rate": 2e-05,
+    "max_length": 256,
+    "dropout": 0.3,
+    "label_smoothing": 0.1
+  },
+  "dataset_info": {
+    "train_samples": 17391,
+    "val_samples": 4348,
+    "class_weights": [
+      0.7058322429656982,
+      1.7044986486434937,
+      1.0034619569778442
+    ]
+  },
+  "final_metrics": {
+    "eval_loss": 1.0982879400253296,
+    "eval_accuracy": 0.5252989880404784,
+    "eval_f1_macro": 0.5057544970267321,
+    "eval_f1_weighted": 0.5310036755817569,
+    "eval_runtime": 18.0802,
+    "eval_samples_per_second": 240.483,
+    "eval_steps_per_second": 15.044,
+    "epoch": 4.0
+  },
+  "device": "mps",
+  "training_completed": true
+}

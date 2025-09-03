@@ -1,0 +1,48 @@
+Top Tokens for RIGHT Bias Classification
+==================================================
+
+TOP POSITIVE INDICATORS (most predictive of this class):
+--------------------------------------------------
+ 1. word:fox                       (+1.1865)
+ 2. word:president trump           (+1.0966)
+ 3. word:fox news                  (+1.0004)
+ 4. word:percent                   (+0.9458)
+ 5. word:president obama           (+0.9185)
+ 6. word:left                      (+0.8951)
+ 7. word:reportedly                (+0.8503)
+ 8. word:dems                      (+0.8186)
+ 9. word:illegal immigrants        (+0.8090)
+10. word:told fox                  (+0.8076)
+11. word:massive                   (+0.7912)
+12. word:press                     (+0.7640)
+13. word:obama                     (+0.7618)
+14. word:sen                       (+0.7421)
+15. word:democrat                  (+0.7403)
+16. word:media                     (+0.6790)
+17. word:good                      (+0.6757)
+18. word:obamacare                 (+0.6669)
+19. word:claiming                  (+0.6331)
+20. word:announced                 (+0.6225)
+
+TOP NEGATIVE INDICATORS (most predictive against this class):
+--------------------------------------------------
+ 1. word:matters                   (-1.1710)
+ 2. word:president donald          (-1.0431)
+ 3. word:u                         (-0.9822)
+ 4. word:u s                       (-0.9779)
+ 5. word:mr                        (-0.9104)
+ 6. word:s president               (-0.8567)
+ 7. word:cnn                       (-0.8262)
+ 8. word:barack                    (-0.7482)
+ 9. char: on                       (-0.7232)
+10. word:driving news              (-0.7210)
+11. word:familiar                  (-0.7162)
+12. word:trump s                   (-0.7108)
+13. word:donald                    (-0.6834)
+14. word:joe biden                 (-0.6672)
+15. word:donald trump              (-0.6633)
+16. word:president barack          (-0.6630)
+17. word:barack obama              (-0.6521)
+18. word:president joe             (-0.6393)
+19. char: on                       (-0.6259)
+20. word:driving                   (-0.6076)

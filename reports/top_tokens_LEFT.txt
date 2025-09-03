@@ -1,0 +1,48 @@
+Top Tokens for LEFT Bias Classification
+==================================================
+
+TOP POSITIVE INDICATORS (most predictive of this class):
+--------------------------------------------------
+ 1. word:cnn                       (+1.1314)
+ 2. word:united states             (+1.0422)
+ 3. word:care                      (+0.9335)
+ 4. word:j                         (+0.8774)
+ 5. word:ap                        (+0.8297)
+ 6. word:trump s                   (+0.8182)
+ 7. word:j trump                   (+0.8120)
+ 8. word:donald j                  (+0.8120)
+ 9. word:donald                    (+0.8042)
+10. word:united                    (+0.7824)
+11. word:b                         (+0.7397)
+12. word:just                      (+0.7011)
+13. word:insurrection              (+0.6451)
+14. word:aides                     (+0.6401)
+15. word:washington ap             (+0.5880)
+16. word:message                   (+0.5763)
+17. word:barack                    (+0.5745)
+18. word:g                         (+0.5684)
+19. word:live                      (+0.5684)
+20. word:e                         (+0.5478)
+
+TOP NEGATIVE INDICATORS (most predictive against this class):
+--------------------------------------------------
+ 1. word:president trump           (-1.4920)
+ 2. word:u s                       (-1.3727)
+ 3. word:u                         (-1.2755)
+ 4. word:matters                   (-1.0623)
+ 5. word:reportedly                (-1.0138)
+ 6. word:mr                        (-0.8529)
+ 7. word:reuters                   (-0.7680)
+ 8. word:perspectives              (-0.7552)
+ 9. word:left                      (-0.7419)
+10. word:president biden           (-0.7145)
+11. word:media                     (-0.7136)
+12. word:s president               (-0.7058)
+13. char:s r                       (-0.6967)
+14. word:driving                   (-0.6720)
+15. word:voters                    (-0.6343)
+16. word:post                      (-0.6217)
+17. word:democrat                  (-0.6186)
+18. word:driving news              (-0.6119)
+19. word:regarding                 (-0.5694)
+20. char:u s                       (-0.5652)

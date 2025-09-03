@@ -1,0 +1,12 @@
+Enhanced Political Bias Classifier - Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+        left     0.4738    0.4009    0.4343      2053
+      center     0.1870    0.2612    0.2180       850
+       right     0.2226    0.2194    0.2210      1445
+
+    accuracy                         0.3132      4348
+   macro avg     0.2945    0.2938    0.2911      4348
+weighted avg     0.3343    0.3132    0.3211      4348
