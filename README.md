@@ -10,7 +10,7 @@ I built two different approaches: a simple baseline using word frequencies and l
 
 This work was inspired by the Stanford CS224N project on bias detection. Unlike their broad survey of multiple NLP models, my project focuses on a direct comparison between a classical TF-IDF + logistic regression baseline and a transformer model (DistilRoBERTa) on labeled news headlines.
 
-Link: https: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1224/reports/custom_116661041.pdf
+Link: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1224/reports/custom_116661041.pdf
 
 ## 1. Introduction
 
