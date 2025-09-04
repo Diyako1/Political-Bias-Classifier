@@ -6,6 +6,11 @@ Political bias in news media is a growing concern, with different outlets often 
 
 I built two different approaches: a simple baseline using word frequencies and logistic regression, and a more sophisticated model using DistilRoBERTa. The goal was to see how much modern transformer models improve over traditional methods on this specific task. Both models use the same dataset and evaluation setup for a fair comparison.
 
+## Acknowledgements
+
+This work was inspired by the Stanford CS224N project on bias detection. Unlike their broad survey of multiple NLP models, my project focuses on a direct comparison between a classical TF-IDF + logistic regression baseline and a transformer model (DistilRoBERTa) on labeled news headlines.
+[stanford-project]: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/final-reports/final-report-169502805.pdf
+
 ## 1. Introduction
 
 Detecting political bias in news text is tricky. Headlines are short, so they rely heavily on word choice to convey stance. The same vocabulary appears across political perspectives, making simple keyword matching unreliable. Plus, what counts as "biased" is subjective - different people might label the same headline differently.
@@ -125,12 +130,6 @@ All results are reproducible with the fixed random seed. Python 3.8+ required.
 ├── reports/                 # Results and plots
 └── requirements*.txt        # Dependencies
 ```
-
-## Acknowledgements
-
-This work was inspired by the Stanford CS224N project on bias detection.
-
-[stanford-project]: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/final-reports/final-report-169502805.pdf
 
 <!-- BEGIN_COMPARISON -->
 ## Model Comparison
